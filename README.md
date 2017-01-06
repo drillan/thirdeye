@@ -1,6 +1,14 @@
 # thirdeye
 Fair Volatility Estimate Model
 
+# Install
+
+```bash
+git clone https://github.com/drillan/thirdeye.git
+cd thirdeye
+python setup.py install
+```
+
 # sample
 
 * 1-D array(list, tupple, numpy.array, pandas.Series)
